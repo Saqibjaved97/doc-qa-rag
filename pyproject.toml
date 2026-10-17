@@ -1,0 +1,9 @@
+[project]
+name = "doc-qa-rag"
+version = "0.1.0"
+description = "Retrieval-augmented question answering over a markdown knowledge base"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
