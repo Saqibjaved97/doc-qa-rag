@@ -1,0 +1,49 @@
+question,doc,section
+How do I install the VPN client?,vpn-setup.md,Installing the client
+What does VPN error 812 mean?,vpn-setup.md,Common problems
+My remote connection keeps dropping out. What can I do?,vpn-setup.md,Common problems
+How often do passwords expire?,password-reset.md,Resetting your password
+I typed my password wrong too many times and can't get in. How long do I have to wait?,password-reset.md,Locked account
+I forgot my password and also lost my phone. What now?,password-reset.md,Forgot password and no phone
+Can I still use SMS codes for MFA?,mfa.md,Multi-factor authentication (MFA)
+I am getting a new mobile. How do I move my second factor to it?,mfa.md,New phone
+I don't have a smartphone. How can I sign in securely?,mfa.md,Hardware keys
+Why does my print job not come out right away?,printer.md,Printing
+The printer is out of toner. Where do I get more?,printer.md,Paper jam or toner
+Can I print to the office printer while working from home?,printer.md,Printing from home
+Which Wi-Fi network should visitors use?,wifi.md,Guests
+My laptop does not show the corporate wireless network. How do I fix it?,wifi.md,Company laptops
+The wireless is really slow in the big conference room.,wifi.md,Slow connection
+How old does a laptop have to be before it is replaced?,laptop-request.md,Ordering a new laptop or other hardware
+Do I need my manager's approval to order a second screen?,laptop-request.md,Monitors and accessories
+My notebook stopped working. Will I get a replacement while it is repaired?,laptop-request.md,Broken laptop
+A tool I need is not in the Software Center. How do I get it?,software-install.md,Software not in the Software Center
+Can I get local administrator rights on my machine?,software-install.md,Admin rights
+When are Windows updates installed?,software-install.md,Updates
+How do I get access to my team's shared mailbox?,shared-mailbox.md,Getting access
+My inbox is almost full. What should I do?,shared-mailbox.md,Mailbox full
+How do I set an out-of-office reply?,shared-mailbox.md,Out-of-office
+I deleted a document by accident. Can I get it back?,file-shares-backup.md,Restoring deleted files
+What happens to the old S: drive?,file-shares-backup.md,Old network drives
+How long are backups kept?,file-shares-backup.md,Backups
+When should a manager request accounts for a new hire?,onboarding.md,Accounts for new employees
+Where does a new employee pick up their laptop on day one?,onboarding.md,First day
+Do working students get accounts that expire?,onboarding.md,Interns and working students
+When is a leaver's account disabled?,offboarding.md,Accounts
+What must a departing employee hand back?,offboarding.md,Returning equipment
+What happens to the OneDrive files of someone who left?,offboarding.md,Handover
+I clicked a link in a suspicious email. What should I do now?,phishing.md,If you already clicked
+How do I report a phishing email?,phishing.md,Reporting phishing and suspicious emails
+Someone called and asked for my MFA code. Is that IT?,phishing.md,Phone scams
+Does my company phone work in Switzerland without extra cost?,travel.md,Working abroad and travelling
+Can I work from Spain for three weeks?,travel.md,Working from another country
+My laptop was stolen at the airport. Who do I call?,travel.md,Lost or stolen devices
+The screen in the meeting room stays black. What do I do?,video-meetings.md,Meeting room problems
+We are organising a webinar for 500 people. Anything to consider?,video-meetings.md,External participants
+How long are Teams recordings kept?,video-meetings.md,Recording
+Can I get a monitor for working from home?,home-office.md,Home office equipment
+Does IT provide an office chair for my home?,home-office.md,Desk and chair
+My home internet is too slow for calls. Can the company help?,home-office.md,Internet at home
+How fast does the service desk respond when the warehouse scanners are down?,ticket-priorities.md,High
+What is the response time for a request for new software?,ticket-priorities.md,Low
+Nobody answered my ticket in time. How do I escalate?,ticket-priorities.md,Escalation
